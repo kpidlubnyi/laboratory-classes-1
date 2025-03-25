@@ -1,0 +1,1 @@
+{"name":"MegaNowyProdukt","description":"MegaNowyProdukt3000 z meganowymi funkcjami"}
